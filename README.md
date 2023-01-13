@@ -16,3 +16,4 @@ otras cosas desde git
 ## estos cambios son nuevos
 
 holap  actualizado desde web
+holap  desde local
